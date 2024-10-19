@@ -1,7 +1,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-gomes-da-cruz/)
 
 ## About me
-Heyo! My name is Mateus Gomes. I currently live in São Paulo, Brazil and I work at LuizaLabs.
+Heyo! My name is Mateus Gomes. I currently live in São Paulo, Brazil and I work at Mercado Livre.
 
 ## Detailed information
 <div align="right" style="margin:auto">
@@ -16,10 +16,6 @@ Heyo! My name is Mateus Gomes. I currently live in São Paulo, Brazil and I work
 * **Name**: Mateus Gomes
 * **Age**: 21
 * **Living in**: São Caetano do Sul - SP, Brazil
-* **Current Stack**: Typescript - Node.js - MongoDB - GCP
-* **Also know**: Java - Kotlin - Springboot - PostgreSQL - AWS
+* **Stack**: Java - Kotlin - Springboot
 * **Degree**: Computer Science
 * **Idioms**: Portuguese - English
-
-## Currently reading 📕
-Building Microservices: Designing Fine-Grained Systems
